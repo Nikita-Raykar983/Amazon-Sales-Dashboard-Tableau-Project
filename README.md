@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/user-attachments/assets/713a1958-9efd-47c5-97a6-1c45abf96d06)# Amazon-Sales-Dashboard-Tableau-Project
+# Amazon-Sales-Dashboard-Tableau-Project
 ## Project Objective
 To build a comprehensive Tableau dashboard that:
 - Monitors sales performance and trends
@@ -16,6 +16,7 @@ To build a comprehensive Tableau dashboard that:
 - How does performance vary week by week?
 - What states and delivery types dominate the sales?
 - What are the shipment status trends?
+---Dashboard Interactive -<a herf="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Screenshot%202025-06-20%20211347.png">view Dashboard</a>
 
 - ## 🔧  Process
 
@@ -36,9 +37,9 @@ To build a comprehensive Tableau dashboard that:
    - Top 10 States by Quantity
    - Quantity by Size and Category
    - Weekly Sales Amount Trend
-
----Dashboard Interactive -<a herf="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Screenshot%202025-06-20%20211347.png">view Dashboard</a>
-"D:\IT VEDANT\TABLAU\Project\Screenshot.png"
+   
+## Dashboard
+![Screenshot](https://github.com/user-attachments/assets/713a1958-9efd-47c5-97a6-1c45abf96d06)
 
 ## Key Insights
 Generated ₹39.3M revenue from 59,245 units across 8 categories and 11 sizes.
