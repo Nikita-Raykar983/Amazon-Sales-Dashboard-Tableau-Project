@@ -7,7 +7,7 @@ To build a comprehensive Tableau dashboard that:
 - Supports data-driven decision-making through visuals
 
 ## Dataset used
--<a href="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Amazon%20Sale%20Report.csv.zip">Dataset</a>
+- <a href="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Amazon%20Sale%20Report.csv.zip">Dataset</a>
 
 ## Key Business Questions
 
@@ -60,8 +60,7 @@ Generated ₹39.3M revenue from 59,245 units across 8 categories and 11 sizes.
 📉 Categories like Blouse, Bottom, and Ethnic Dress underperform and may need re-evaluation.
 
  ## Final Conclusion
-The Amazon Sales Dashboard built in Tableau provides a comprehensive overview of sales performance across categories, sizes, regions, and time periods. The analysis revealed that the “Set” category, medium-to-large sizes, and states like Maharashtra and Karnataka drive the majority of sales.
+This Tableau dashboard offers a clear and interactive view of Amazon's sales data, highlighting product performance, shipping trends, and customer preferences. The analysis shows that the “Set” category, mid-range sizes (M, L, XL), and top states like Maharashtra and Karnataka are key drivers of sales.
 
-Most orders are processed through Amazon.in and are non-B2B, with shipped status dominating the logistics flow. However, areas such as delivery issues, low-performing categories, and underutilized sizes indicate opportunities for operational improvement and strategic focus.
+The dashboard also reveals potential improvement areas such as delayed deliveries, low-performing categories, and limited B2B reach. By visualizing these insights, the dashboard helps businesses make informed decisions on inventory, logistics, and regional strategy to improve overall performance and customer satisfaction.
 
-This dashboard empowers decision-makers to enhance inventory planning, optimize regional marketing, and improve shipping efficiency, ultimately supporting data-driven growth.
