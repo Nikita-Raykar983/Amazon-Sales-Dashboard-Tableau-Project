@@ -17,6 +17,7 @@ To build a comprehensive Tableau dashboard that:
 - What states and delivery types dominate the sales?
 - What are the shipment status trends?
 
+
 - Dashboard Interactive <a href="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Screenshot%202025-06-20%20211347.png">view Dashboard</a>
 
 - ## 🔧  Process
