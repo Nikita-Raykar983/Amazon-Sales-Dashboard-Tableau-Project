@@ -7,7 +7,7 @@ To build a comprehensive Tableau dashboard that:
 - Supports data-driven decision-making through visuals
 
 ## Dataset used
--<a href="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Amazon%20Sale%20Report.csv.zip">Dataseta</a>
+-<a href="https://github.com/Nikita-Raykar983/Amazon-Sales-Dashboard-Tableau-Project/blob/main/Amazon%20Sale%20Report.csv.zip">Dataset</a>
 
 ## Key Business Questions
 
